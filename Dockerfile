@@ -9,7 +9,7 @@ RUN set -xe \
     mkdir /ftb-server
 
 RUN set -xe \
-    apk -U add --no-cache bash wget
+    apk -U add --no-cache wget
 
 COPY ftb-continuum-server/* /ftb-server/
 WORKDIR /ftb-server

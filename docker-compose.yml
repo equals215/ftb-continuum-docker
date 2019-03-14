@@ -10,12 +10,12 @@ services:
     ports:
       - 25565:25565
     volumes:
-      - $PWD/files/backups/:$PWD/backups/
-      - $PWD/files/config/:$PWD/config/
-      - $PWD/files/journeymap/:$PWD/journeymap/
-      - $PWD/files/local/:$PWD/local/
-      - $PWD/files/logs/:$PWD/logs/
-      - $PWD/files/scripts/:$PWD/scripts/
-      - $PWD/files/world/:$PWD/world/
+      - $PWD/files/backups/:/ftb-server/backups/
+      - $PWD/files/config/:/ftb-server/config/
+      - $PWD/files/journeymap/:/ftb-server/journeymap/
+      - $PWD/files/local/:/ftb-server/local/
+      - $PWD/files/logs/:/ftb-server/logs/
+      - $PWD/files/scripts/:/ftb-server/scripts/
+      - $PWD/files/world/:/ftb-server/world/
     container_name: ftb-continuum-server
     hostname: continuum-server

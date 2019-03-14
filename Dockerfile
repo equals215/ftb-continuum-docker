@@ -9,7 +9,8 @@ RUN set -xe \
     mkdir /ftb-server
 
 RUN set -xe \
-    apk -U add --no-cache wget
+    apk -U add --no-cache wget ca-certificates \
+    update-ca-certificates
 
 COPY ftb-continuum-server/* /ftb-server/
 

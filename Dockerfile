@@ -12,9 +12,6 @@ RUN set -xe \
     apk -U add --no-cache wget
 
 COPY ftb-continuum-server/* /ftb-server/
-WORKDIR /ftb-server
-RUN set -xe \
-    chmod +x FTBInstall.sh ServerStart.sh settings.sh settings-local.sh
 
 COPY entrypoint.sh /usr/local/bin/entrypoint.sh
 ENTRYPOINT ["entrypoint.sh"]

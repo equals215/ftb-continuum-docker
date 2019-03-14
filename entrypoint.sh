@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo "Starting container..."
+echo "Container started"
 
 exec "$@"

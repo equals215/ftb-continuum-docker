@@ -9,6 +9,10 @@ services:
       context: ${API_DOCKER_CONTEXT:-.}
     ports:
       - 25565:25565
+    environment:
+      - JAVACMD=${JAVACMD:-java}
+      - MAX_RAM=${MAX_RAM:-2048M}
+      - JAVA_PARAMETERS=${JAVA_PARAMETERS:-"-XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=5 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10"}
     volumes:
       - $PWD/files/backups/:/ftb-server/backups/
       - $PWD/files/config/:/ftb-server/config/

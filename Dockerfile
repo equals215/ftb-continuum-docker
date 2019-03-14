@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jdk-alpine
+FROM openjdk:8u181-jdk-alpine
 
 LABEL "name"="equals215/ftb-continuum-server"
 LABEL "version"="1.0"

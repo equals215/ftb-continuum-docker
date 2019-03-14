@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  continuum-server:
+    image: equals215/ftb-continuum-server
+    restart: unless-stopped
+    build:
+      dockerfile: ${API_DOCKER_FILE:-Dockerfile}
+      context: ${API_DOCKER_CONTEXT:-.}
+    ports:
+      - 25565:25565
+    volumes:
+      - $PWD/files/backups/:$PWD/backups/
+      - $PWD/files/config/:$PWD/config/
+      - $PWD/files/journeymap/:$PWD/journeymap/
+      - $PWD/files/local/:$PWD/local/
+      - $PWD/files/logs/:$PWD/logs/
+      - $PWD/files/scripts/:$PWD/scripts/
+      - $PWD/files/world/:$PWD/world/
+    container_name: ftb-continuum-server
+    hostname: continuum-server

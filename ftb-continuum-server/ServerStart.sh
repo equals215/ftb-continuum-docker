@@ -25,7 +25,7 @@ eula_false() {
 
 # cleaner code 2
 start_server() {
-    "$JAVACMD" -server -Xmx${MAX_RAM} ${JAVA_PARAMETERS} -jar ${FORGEJAR} nogui
+    "$JAVACMD" -server -Xmx${MAX_RAM} ${JAVA_PARAMETERS} -Dfml.queryResult=confirm -jar ${FORGEJAR} nogui
 }
 
 # run install script if MC server or launchwrapper s missing
@@ -65,4 +65,3 @@ while [ -e autostart.stamp ] ; do
     start_server
     echo "Server process finished"
 done
-

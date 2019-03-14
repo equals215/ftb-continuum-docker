@@ -10,7 +10,8 @@ RUN set -xe \
 
 RUN set -xe \
     apk -U add --no-cache wget ca-certificates \
-    update-ca-certificates
+    update-ca-certificates \
+    apk -U add --no-cache openssl
 
 COPY ftb-continuum-server/* /ftb-server/
 

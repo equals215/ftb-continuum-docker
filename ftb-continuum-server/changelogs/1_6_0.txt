@@ -1,0 +1,116 @@
+1.6.0 Update
+
+
+Mods Updated:
+-FORGE 14.23.5.2796
+-ActuallyAdditions-1.12.2-r144.jar 
+-AdvancedRocketry-1.12.2-1.4.1-120-universal.jar 
+-appliedenergistics2-rv6-stable-6.jar 
+-AutoRegLib-1.3-24.jar 
+-base-1.12.2-3.11.0.jar 
+-badwithernocookiereloaded-1.12.2-3.3.16.jar 
+-BetterBuildersWands-1.12.2-0.12.1.254+27f21b9.jar 
+-BetterQuesting-3.5.282.jar 
+-StandardExpansion-3.4.147.jar 
+-binnie-mods-1.12.2-2.5.1.186.jar 
+-blockcraftery-1.12.2-1.1.0.jar 
+-Bookshelf-1.12.2-2.3.569.jar 
+-Charset-Lib-0.5.5.6.jar 
+-Chisel-MC1.12.2-0.2.1.35.jar 
+-chiselsandbits-14.29.jar 
+-CodeChickenLib-1.12.2-3.2.2.353-universal.jar 
+-CoFHCore-1.12.2-4.6.1.22-universal.jar 
+-CoFHWorld-1.12.2-1.3.0.6-universal.jar 
+-CTM-MC1.12.2-0.3.3.22.jar 
+-CookingForBlockheads_1.12.2-6.4.65.jar 
+-CraftTweaker2-1.12-4.1.13.jar 
+-CustomMainMenu-MC1.12.2-2.0.9.jar 
+-DarkUtils-1.12.2-1.8.219.jar 
+-DefaultOptions_1.12.2-9.2.8.jar 
+-engineers_doors-1.12.2-0.8.0.jar 
+-EngineersWorkshopReborn-1.12.2-1.0.9.40.jar 
+-environmentaltech-1.12.2-2.0.19.1.jar 
+-Exchangers-1.12.2-2.8.jar 
+-extrautils2-1.12-1.9.8.jar 
+-ExtraCells-1.12.2-2.6.2a.jar 
+-ExtremeReactors-1.12.2-0.4.5.50.jar 
+-FastWorkbench-1.12.2-1.6.0.jar 
+-fluxnetworks-1.12.2-3.0.19-21.jar 
+-foamfix-0.10.3-1.12.2.jar 
+-forestry_1.12.2-5.8.2.380.jar 
+-ForgeMultipart-1.12.2-2.6.0.79-universal.jar 
+-letsencryptcraft-1.10.2-1.0.0.jar 
+-FTBLib-5.4.0.73.jar 
+-FTBUtilities-5.3.0.69.jar 
+-ImmersiveEngineering-0.12-88.jar 
+-industrialforegoing-1.12.2-1.12.4-228.jar 
+-ironchest-1.12.2-7.0.55.839.jar 
+-journeymap-1.12.2-5.5.3.jar 
+-JEHC-1.12.2-1.6.2.0.jar 
+-jei_1.12.2-4.14.3.246.jar 
+-LibVulpes-1.12.2-0.3.0-45-universal.jar 
+-Mantle-1.12-1.3.3.39.jar 
+-mcjtylib-1.12-3.0.7.jar 
+-modtweaker-4.0.15.jar 
+-MouseTweaks-2.9-mc1.12.2.jar 
+-mysticallib-1.12.2-1.0.0.jar 
+-natura-1.12.2-4.3.2.65.jar 
+-OpenBlocks-1.12.2-1.8.jar 
+-OpenModsLib-1.12.2-0.12.1.jar 
+-OreExcavation-1.4.133.jar 
+-p455w0rdslib-1.12.2-2.0.36.jar 
+-Pam's HarvestCraft 1.12.2zb.jar 
+-PrettyBeaches_1.12.2-1.0.4.jar 
+-ProjectE-1.12-PE1.3.2h.jar 
+-Quark-r1.5-139.jar 
+-RebornCore-1.12.2-3.13.0.400-universal.jar 
+-RedstoneArsenal-1.12.2-2.6.1.15-universal.jar 
+-RedstoneFlux-1.12-2.1.0.6-universal.jar 
+-refinedstorage-1.6.12.jar 
+-rftools-1.12-7.59.jar 
+-rftoolsctrl-1.12-1.9.2.jar 
+-Forgelin-1.8.2.jar 
+-Harvest-1.12-1.2.7-20.jar 
+-SimplyJetpacks2-1.12.2-2.2.10.63.jar 
+-sonarcore-1.12.2-5.0.19-20.jar 
+-SplashAnimation-0.2.0.jar 
+-StevesCarts-1.12.2-2.4.28.130.jar 
+-StorageDrawers-1.12.2-5.3.8.jar 
+-TechReborn-1.12.2-2.20.1.889-universal.jar 
+-theoneprobe-1.12-1.4.25.jar 
+-ThermalCultivation-1.12.2-0.3.1.8-universal.jar 
+-ThermalDynamics-1.12.2-2.5.3.16-universal.jar 
+-ThermalExpansion-1.12.2-5.5.2.39-universal.jar 
+-ThermalFoundation-1.12.2-2.6.1.22-universal.jar 
+-TConstruct-1.12.2-2.12.0.113.jar 
+-TinkerToolLeveling-1.12.2-1.1.0.jar 
+-TipTheScales-1.12.2-1.0.3.jar 
+-topaddons-1.12.2-1.10.1.jar 
+-torchmaster_1.12.2-1.7.1.74.jar 
+-UniDict-1.12.2-2.9.2.jar 
+-valkyrielib-1.12.2-2.0.19.1.jar 
+-WanionLib-1.12.2-2.2.jar 
+-AE2WTLib-1.12.2-1.0.6.jar 
+-WirelessCraftingTerminal-1.12.2-3.11.88.jar 
+-WR-CBE-1.12.2-2.3.1.30-universal.jar 
+-xnet-1.12-1.7.5.jar 
+-YABBA-1.1.2.29.jar 
+-zerocore-1.12-0.1.2.3.jar 
+-FTBGuides-1.0.2.27.jar
+
+
+Mods Added:
+-
+
+
+Mods Removed:
+-
+
+
+Changes:
+-Remove WCT infinity booster card custom recipe as item no long exists.
+-Regenerated default fixed values for simply jetpack speeds; closed #499
+-Fixed late game latex recipe; closes #482
+-Removed AE2 silicon recipe from eFab, use the RS silicon recipe instead; closes #477
+-Removed RS solder from quest as item no long exists; closes #478
+-Removed Silicon quest; closes #480
